@@ -53,6 +53,7 @@ header .inner-header {
 header .logo {
     width: 100px;
     flex: 1;
+    
 }
 
 header .logo img {
